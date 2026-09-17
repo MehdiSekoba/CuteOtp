@@ -3,7 +3,7 @@
 > A beautiful, animated, and customizable OTP input component for Android Jetpack Compose.
 
 <p align="center">
-  <img src="[ui.gif](https://github.com/MehdiSekoba/CuteOtp/blob/main/assert/ui.gif)" width="420" alt="CuteOtp demo" />
+  <img src="https://raw.githubusercontent.com/MehdiSekoba/CuteOtp/main/assert/ui.gif" width="420" alt="CuteOtp demo" />
 </p>
 
 <p align="center">
