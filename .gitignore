@@ -1,0 +1,36 @@
+# Default Android Studio / Gradle
+*.iml
+.gradle
+/local.properties
+
+# Android Studio
+/.idea/caches
+/.idea/libraries
+/.idea/modules.xml
+/.idea/workspace.xml
+/.idea/navEditor.xml
+/.idea/assetWizardSettings.xml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Build
+/build
+**/build/
+
+# Android
+/captures
+.externalNativeBuild
+.cxx
+
+# Logs
+*.log
+
+# Signing / Secrets
+*.asc
+*.gpg
+*.key
+secret-key.asc
+private.key
+secring.gpg
