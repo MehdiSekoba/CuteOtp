@@ -10,7 +10,7 @@
   <a href="https://github.com/MehdiSekoba/CuteOtp">
     <img src="https://img.shields.io/github/stars/MehdiSekoba/CuteOtp?style=flat" alt="GitHub stars" />
   </a>
-  <a href="https://central.sonatype.com/artifact/io.github.mehdisekoba/cuteotp">
+  <a href="https://central.sonatype.com/artifact/io.github.mehdisekoba/CuteOtp">
     <img src="https://img.shields.io/maven-central/v/io.github.mehdisekoba/cuteotp?style=flat" alt="Maven Central" />
   </a>
   <a href="https://github.com/MehdiSekoba/CuteOtp/blob/main/LICENSE">
