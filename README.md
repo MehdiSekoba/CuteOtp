@@ -41,7 +41,7 @@
 cuteOtp = "1.0.1"
 
 [libraries]
-cuteotp = { module = "io.github.mehdisekoba:cuteotp", version.ref = "cuteOtp" }
+cuteotp = { module = "io.github.mehdisekoba:CuteOtp", version.ref = "CuteOtp" }
 ```
 
 ```kotlin
