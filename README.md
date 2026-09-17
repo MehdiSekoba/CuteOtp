@@ -10,9 +10,7 @@
   <a href="https://github.com/MehdiSekoba/CuteOtp">
     <img src="https://img.shields.io/github/stars/MehdiSekoba/CuteOtp?style=flat" alt="GitHub stars" />
   </a>
-  <a href="https://central.sonatype.com/artifact/io.github.mehdisekoba/CuteOtp">
-    <img src="https://img.shields.io/maven-central/v/io.github.mehdisekoba/cuteotp?style=flat" alt="Maven Central" />
-  </a>
+  
   <a href="https://github.com/MehdiSekoba/CuteOtp/blob/main/LICENSE">
     <img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License" />
   </a>
@@ -41,7 +39,7 @@
 cuteOtp = "1.0.1"
 
 [libraries]
-cuteotp = { module = "io.github.mehdisekoba:CuteOtp", version.ref = "CuteOtp" }
+cuteotp = { module = "io.github.mehdisekoba:CuteOtp:", version.ref = "CuteOtp" }
 ```
 
 ```kotlin
