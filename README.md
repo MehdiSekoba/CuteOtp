@@ -36,7 +36,7 @@
 
 ```toml
 [versions]
-cuteOtp = "1.0.0"
+cuteOtp = "1.0.1"
 
 [libraries]
 cuteotp = { module = "io.github.mehdisekoba:CuteOtp:", version.ref = "CuteOtp" }
@@ -49,7 +49,7 @@ implementation(libs.cuteotp)
 ### Without Version Catalog
 
 ```kotlin
-implementation("io.github.mehdisekoba:cuteotp:1.0.0")
+implementation("io.github.mehdisekoba:cuteotp:1.0.1")
 ```
 
 ## 🚀 Basic Usage
